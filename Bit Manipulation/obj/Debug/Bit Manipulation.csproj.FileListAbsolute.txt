@@ -1,0 +1,9 @@
+C:\Users\Chitra\Documents\PracticeC#\Bit Manipulation\Bit Manipulation\bin\Debug\Bit Manipulation.exe.config
+C:\Users\Chitra\Documents\PracticeC#\Bit Manipulation\Bit Manipulation\bin\Debug\Bit Manipulation.exe
+C:\Users\Chitra\Documents\PracticeC#\Bit Manipulation\Bit Manipulation\bin\Debug\Bit Manipulation.pdb
+C:\Users\Chitra\Documents\PracticeC#\Bit Manipulation\Bit Manipulation\obj\Debug\Bit Manipulation.csprojResolveAssemblyReference.cache
+C:\Users\Chitra\Documents\PracticeC#\Bit Manipulation\Bit Manipulation\obj\Debug\Bit Manipulation.exe
+C:\Users\Chitra\Documents\PracticeC#\Bit Manipulation\Bit Manipulation\obj\Debug\Bit Manipulation.pdb
+C:\Users\Chitra\Documents\Github\DuplicateBit\Bit Manipulation\bin\Debug\Bit Manipulation.exe.config
+C:\Users\Chitra\Documents\Github\DuplicateBit\Bit Manipulation\obj\Debug\Bit Manipulation.exe
+C:\Users\Chitra\Documents\Github\DuplicateBit\Bit Manipulation\obj\Debug\Bit Manipulation.pdb
